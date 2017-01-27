@@ -1,0 +1,8 @@
+com\fsfn\springbatch\config\DatabaseConfig.class
+com\fsfn\springbatch\step\Writer.class
+com\fsfn\springbatch\step\Reader.class
+com\fsfn\springbatch\config\BatchConfig.class
+com\fsfn\springbatch\step\Processor.class
+com\fsfn\springbatch\SpringBatchApplication.class
+com\fsfn\springbatch\listener\JobCompletionNotificationListener.class
+com\fsfn\springbatch\controller\JobLauncherController.class
